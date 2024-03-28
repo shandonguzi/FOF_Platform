@@ -1,0 +1,6 @@
+
+
+
+
+JOINQUANT_USER = 'xxx'
+JOINQUANT_PASSWD = 'xxx'

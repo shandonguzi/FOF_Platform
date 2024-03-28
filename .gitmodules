@@ -1,0 +1,15 @@
+# [submodule "VIX_SKEW_calculator"]
+# 	path = VIX_SKEW_calculator
+# 	url = ssh://git@10.8.3.37:2222/dacianpeng/VIX_SKEW_calculator.git
+# [submodule "weekly_report"]
+# 	path = weekly_report
+# 	url = ssh://git@10.8.3.37:2222/dacianpeng/weekly_report.git
+# [submodule "wind_level0"]
+# 	path = wind_level0
+# 	url = ssh://git@10.8.3.37:2222/dacianpeng/wind_level0.git
+# [submodule "Propagation"]
+# 	path = Propagation
+# 	url = ssh://git@10.8.3.37:2222/dacianpeng/Propagation.git
+[submodule "PeriodicReports"]
+	path = PeriodicReports
+	url = http://10.8.3.37:3000/loujianyue/PeriodicReports.git
